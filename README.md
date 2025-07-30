@@ -9,6 +9,7 @@ Follow below steps
    if not having permissions to your user , add your user to docker group 
 5) if you changed permissions then make logout and log in back to reflect the permissions
 6) Clone your application and docker file in GitHub into ec2 instance 
-7) build docker image 
-8) then run the dicker image
-9) now push your docker image to docker hub
+7) build docker image
+8) verify docker image is created or not
+9) then run the dicker image
+10) now push your docker image to docker hub
