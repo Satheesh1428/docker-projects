@@ -11,5 +11,7 @@ Follow below steps
 6) Clone your application and docker file in GitHub into ec2 instance 
 7) build docker image
 8) verify docker image is created or not
-9) then run the dicker image
+9) then run the docker image
 10) now push your docker image to docker hub
+
+**My docker image on docker hub: docker pull satheeshovsn/my-python-app-image:latest**
