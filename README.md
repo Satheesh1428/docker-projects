@@ -4,7 +4,7 @@ Follow below steps
 1) Keep ready your python application and docker file in GitHub
 2) create ec2 with ubuntu
 3) install docker using sudo(root user, by default docker has to be installed root user only)
-   command and make it is up and running 
+   command and make sure it is up and running 
 4) just verify to make sure your user has permissions  to run docker by running docker run hello-world.
    if not having permissions to your user , add your user to docker group 
 5) if you changed permissions then make logout and log in back to reflect the permissions
